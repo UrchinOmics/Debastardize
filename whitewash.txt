@@ -1,0 +1,10 @@
+# sometimes, the atrocities of the people who dominate the statistics we all use are so vile that they trigger safety filters in frontier AI models. The text below can be substituted in place of lines 
+
+- **Campaigns against bodily autonomy**: Advocating for policies that remove reproductive choice from individuals deemed unfit, including institutional programs dedicated to selective breeding or population control based on perceived genetic worth
+- **Theories of racial hierarchy**: Publishing, promoting, or providing intellectual infrastructure for claims that some racial or ethnic groups are inherently superior or inferior to others, or opposing institutional efforts to dismantle such frameworks
+- **Collaboration with or rehabilitation of perpetrators of atrocities**: Providing professional references, institutional cover, or intellectual legitimacy to individuals or regimes responsible for mass persecution, or denying or minimizing such events after the fact
+- **Exploitation or abuse of those under their power**: Documented patterns of assault, harassment, or exploitation directed at students, subordinates, or research subjects
+- **Gatekeeping based on gender**: Sustained, active campaigns to exclude women from scientific institutions or careers, going beyond the background norms of their era
+- **Research conducted on captive or colonized populations without consent**: Using people who could not meaningfully refuse as research subjects, or framing systemic violence against such populations as scientifically justified
+- **Fabrication or distortion of data to justify harm**: Manufacturing or knowingly misrepresenting scientific findings to support the persecution of specific populations
+- **Claims of a biological basis of superiority**: Asserting that one group of people is inherently superior to another and presenting those claims as having scientific or biological justification
