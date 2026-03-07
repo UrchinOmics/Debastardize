@@ -12,6 +12,10 @@ Not everyone in this history is a villain, and knowing the stories behind those 
 
 His story deserves to be told too. 
 
+And then there's Andrey Kolmogorov. He shared a home and a fifty-year partnership with the topologist Pavel Alexandrov in a country that criminalizes homosexuality (then and now). He used his mathematical expertise to publicly challenge Lysenko's pseudoscientific ban on genetics when doing so could end a career or worse, and built the axiomatic foundations on which all of modern probability theory rests, and used his institutional position and power to Jewish colleages from the state during the Lysenko purges.
+
+`debastardize.md` doesn't just identify the horrors of our past - it can teach us about contemporaries of people like Pearson and Fisher who were incredible, brave, and resisliant scientists. Those stories can also help us to disabuse ourselves of the apologist notion that the likes of Fisher were simply "products of their time". 
+
 ## What this does
 
 `debastardize.md` is a prompt for agentic AI, inducing an agent to:
