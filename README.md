@@ -16,9 +16,9 @@ Not everyone in this history is a villain, and knowing the stories behind those 
 
 1. **Scan** your codebase and/or manuscripts for eponymous statistical methods
 2. **Research** the people those methods are named after
-3. **Informs** you about their history — the good, the bad, and the complicated — with citations that you can check (so you needn't depend on the accuracy of the AI model).
-4. **Plans** alternatives where statistically appropriate replacements exist. 
-5. **Produces** a `history.md` file you can include in your repo, giving context to the people whose work your code builds on. 
+3. **Inform** you about their history — the good, the bad, and the complicated — with citations that you can check (so you needn't depend on the accuracy of the AI model)
+4. **Plan** alternatives where statistically appropriate replacements exist
+5. **Produce** a `history.md` file you can include in your repo, giving context to the people whose work your code builds on
 
 It does not modify your files. It produces a plan. You decide what to do with it.
 
@@ -27,7 +27,7 @@ It does not modify your files. It produces a plan. You decide what to do with it
 Clone this repo into or alongside your project:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/debastardize.git
+git clone https://github.com/UrchinOmics/Debastardize.git
 ```
 
 Then point your agentic AI tool at your project and give it the prompt:
@@ -37,6 +37,18 @@ Then point your agentic AI tool at your project and give it the prompt:
 cd ~/your-project
 claude
 # reference debastardize.md as your task
+```
+
+**Claude Code (slash command):**
+```bash
+# Install once — copies the prompt into your project's command directory
+mkdir -p .claude/commands
+cp path/to/Debastardize/debastardize-command.md .claude/commands/debastardize.md
+cp -r path/to/Debastardize/histories/ ./histories/
+
+# Then use it in any session
+claude
+/project:debastardize
 ```
 
 **OpenAI Codex:**
@@ -54,6 +66,7 @@ The agent will ask you two questions — what to scan and what your field is —
 | File | What it is |
 |---|---|
 | [`debastardize.md`](debastardize.md) | The prompt. Give this to your agent. |
+| [`debastardize-command.md`](debastardize-command.md) | Same prompt, stripped for use as a Claude Code slash command. |
 | [`histories/`](histories/) | Biographical entries for known figures — problematic and otherwise. One file per person. The agent consults these as needed, avoiding API refusal to discuss difficult historical topics. |
 | [`histories/values.txt`](histories/values.txt) | Tone and style guide for biographical entries. Used by subagents when researching new figures. |
 | `README.md` | You're reading it. |

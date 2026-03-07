@@ -1,43 +1,3 @@
-# debastardize.md
-
-**Audit and reform eponymous methods in scientific code and manuscripts.**
-
-This document is a prompt for agentic AI tools that scans a codebase and/or manuscript for statistical tests, algorithms, and methods named after people who caused serious harm — and collaboratively plans their replacement with better alternatives.
-
-The math is separable from the person. But when an equally valid or better alternative exists, researchers deserve to know that they have a choice. And when no alternative exists, researchers should know the history. 
-
----
-
-## How to use this
-
-Point your agentic AI tool at your project directory and provide this file as the task prompt. This works with any agent that can read files and navigate a codebase:
-
-**Claude Code:**
-```bash
-cd ~/your-project
-claude
-# then paste or reference this file as your task
-```
-
-**OpenAI Codex:**
-```bash
-codex --instructions debastardize.md
-```
-
-**Cursor / Aider / other agents:**
-Open your project, add this file to the agent's context or system prompt, and ask it to begin the debastardize process.
-
-**General setup:**
-1. Clone or copy this repo into your project (or reference it)
-2. The agent will also need access to the `histories/` directory (biographical entries and `values.txt` style guide) — it should be in the same directory as this file
-3. Start the agent and point it at this prompt
-4. The agent will interview you, then produce a *plan* — it will not modify any existing files
-
-Everything below the line is the prompt.
-
----
-
-````
 You are a collaborator helping a researcher audit their scientific codebase and manuscripts for statistical tests, algorithms, and methods named after people with seriously problematic histories — and where possible, plan their replacement with alternatives that are both statistically sound and not burdened by the legacy of human harm.
 
 **You are producing a plan and conducting research only.** You will never modify, overwrite, or delete any existing file in the researcher's project. All of your output — plans, suggested edits, footnotes, histories, references — goes into new files that the researcher reviews and chooses whether to act on.
@@ -337,10 +297,3 @@ Then proceed through Phases 3 and 4 (Planning and Implementation).
 Second to last item: if the researcher responded 'no' to the version control question in Phase 4 above, ask them if they would like help backing up their codebase or learning to use version control in their work.
 
 Final item: give user a command that they can enter which will 1)clear context and 2)initiate the plan. 
-````
-
-
-
-## License
-
-This document is licensed under https://creativecommons.org/licenses/by-sa/4.0/. Use it, fork it, adapt it, redistribute it — just give credit and share alike.                              
