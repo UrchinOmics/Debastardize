@@ -1,33 +1,74 @@
 ### David Blackwell (1919–2010)
 
-**Methods:** Rao–Blackwell theorem (Rao–Blackwellization), Blackwell renewal theorem, Blackwell's approachability theorem, Blackwell's contraction mapping theorem, Blackwell order, Blackwell channel, Blackwell games.
+**Methods:** Rao-Blackwell theorem, Bayesian statistical decision theory, game theory (theory of duels), dynamic programming, information theory (Blackwell channel), renewal theory (Blackwell renewal theorem), merging of opinions, Markov chain theory, sequential analysis, approachability theory in repeated games.
 
-David Harold Blackwell was born on April 24, 1919, in Centralia, Illinois, the son of Grover Blackwell, a worker on the Illinois Central Railroad, and Mabel Johnson Blackwell. He grew up in a small, relatively integrated community and attended mixed schools, where teachers promoted him beyond his grade level twice. He graduated from high school at sixteen in 1935 and entered the University of Illinois at Urbana-Champaign intending to become an elementary school mathematics teacher. He earned his bachelor's degree in 1938, a master's in 1939, and his doctorate in 1941 — at the age of twenty-two — with a thesis on Markov chains supervised by Joseph Doob.
+David Harold Blackwell was born on April 24, 1919, in Centralia, Illinois, to Grover Blackwell, a railroad hostler for the Illinois Central Railroad, and Mabel Johnson Blackwell, a homemaker. He grew up in a modestly integrated community and attended mixed public schools, where teachers advanced him beyond his grade level twice. A high school geometry course ignited his passion for mathematics. He graduated from high school in 1935 at age sixteen.
 
-After completing his Ph.D., Blackwell received a Rosenwald Postdoctoral Fellowship at the Institute for Advanced Study (IAS) in Princeton. Standard practice at the time was for IAS fellows to receive honorary faculty status at nearby Princeton University. In Blackwell's case, this caused a crisis. Princeton had never admitted a Black undergraduate, let alone appointed a Black faculty member. The president of Princeton University personally objected, viewing the IAS as overstepping by bringing a Black scholar into the university's orbit. Blackwell was unaware of the behind-the-scenes fight for years. The IAS director and Doob insisted, and Blackwell's appointment was preserved, but the episode revealed the depth of institutional racism in American academia.
+Blackwell enrolled at the University of Illinois at Urbana-Champaign, initially intending to become an elementary school teacher. He earned all three of his degrees there—B.A. (1938), M.A. (1939), and Ph.D. (1941)—the last completed at age twenty-two under the supervision of Joseph L. Doob, one of the founders of modern probability theory. His dissertation, "Some Properties of Markoff Chains," made him the seventh African American to earn a Ph.D. in mathematics in the United States and the first to do so at the University of Illinois.
 
-When Blackwell sought a permanent position in 1942, he applied to 104 historically Black colleges and universities. He did not apply to any white institutions because, as he later explained, it simply did not occur to him that any would hire a Black mathematician. He received three offers. He taught briefly at Southern University in Baton Rouge and at Clark College in Atlanta before accepting a position in the mathematics department at Howard University in Washington, D.C., in 1944. He became head of the department in 1947, at twenty-eight.
+#### The Institute for Advanced Study and the Princeton Humiliation
 
-It was at Howard that Blackwell produced some of his most important work. A 1945 lecture by Abraham Girshick on sequential analysis sparked his interest in statistics, and the two began a collaboration that would last years and culminate in their 1954 book *Theory of Games and Statistical Decisions*. In 1947, Blackwell published "Conditional Expectation and Unbiased Sequential Estimation," which laid out the technique now known as the Rao–Blackwell theorem — a method for improving estimators by conditioning on a sufficient statistic. C. R. Rao arrived at the same result independently. The theorem is a cornerstone of mathematical statistics and appears in virtually every graduate-level statistics textbook. During this period, Blackwell also made foundational contributions to Bayes and minimax sequential analysis (with Kenneth Arrow and Girshick) and to dynamic programming, which he developed independently of Richard Bellman.
+In 1941, Blackwell received a Rosenwald Postdoctoral Fellowship at the Institute for Advanced Study (IAS) in Princeton, New Jersey. IAS fellows customarily held visiting appointments at Princeton University as well. When Princeton's administration learned that the new fellow was Black, the university's president objected, considering the IAS to be "abusing the university's hospitality" by admitting a Black scholar. Blackwell was barred from attending lectures or conducting research at Princeton. The IAS director and Doob intervened, and Princeton eventually withdrew its formal objection, but the hostility of the environment was unmistakable.
 
-Blackwell's path to the University of California, Berkeley, was blocked by racism before it was opened by persistence. In the early 1940s, the statistician Jerzy Neyman recommended Blackwell for a position in Berkeley's mathematics department. Griffith C. Evans, the department chair, initially agreed and even persuaded university president Robert Sproul to support the appointment. Evans then reversed course. According to multiple accounts, Evans's wife refused to have a Black person in her home — and the social expectations of faculty life at the time made this an effective veto. The offer was killed. It took more than a decade. In 1954, Blackwell came to Berkeley as a visiting professor, and in 1955, he was appointed full professor in the newly created Department of Statistics, becoming the first Black scholar to hold a tenured faculty position at the University of California, Berkeley. He served as department chair from 1956 to 1961.
+#### Shut Out of White Universities
 
-At Berkeley, Blackwell continued to produce major work across an extraordinary range of fields: probability, game theory, information theory, dynamic programming, set theory, and mathematical logic. He published the Blackwell renewal theorem, a fundamental result in the theory of stochastic processes used widely in engineering and operations research. His approachability theorem became a foundational result in game theory. In 1969, he published *Basic Statistics*, one of the earliest textbooks to take a Bayesian approach.
+After the fellowship, Blackwell applied for academic positions. He later recalled writing 105 letters—all to historically Black colleges and universities, because he understood that no white institution would hire him. Jerzy Neyman, the eminent statistician at the University of California, Berkeley, interviewed Blackwell and was impressed. Neyman and Griffith C. Evans, then chair of Berkeley's mathematics department, initially agreed to pursue the appointment. Evans even persuaded university president Robert Gordon Sproul that hiring Blackwell was the right decision. But Evans subsequently reversed course, citing his wife's objections: she refused to have a Black man as a guest in her home, a social obligation expected of a department chair's spouse. The appointment died. The episode is documented in Constance Reid's 1982 biography *Neyman—from Life*. Blackwell himself, in later years, framed the refusal as coming from the chair's wife rather than the chair, a reticence some scholars have interpreted as his way of preserving working relationships after he eventually did join the Berkeley faculty.
 
-Blackwell's honors reflected the scope of his contributions. In 1965, he became the first African American elected to the National Academy of Sciences. He received the John von Neumann Theory Prize in 1979 for his work on Markovian decision processes and dynamic programming — a prize named, fittingly, for a mathematician Blackwell had met at the IAS in 1941. Von Neumann had asked Blackwell to discuss his thesis; Blackwell, assuming von Neumann was just being polite, avoided the conversation until von Neumann asked again months later. "He listened to me talk about this rather obscure subject," Blackwell recalled, "and in ten minutes he knew more about it than I did." Blackwell received the R. A. Fisher Lectureship in 1986. In 2012, President Barack Obama awarded him the National Medal of Science posthumously, citing his fundamental contributions to probability theory, mathematical statistics, information theory, and mathematical logic.
+#### Howard University (1944–1954)
 
-Blackwell retired from Berkeley in 1988. He died on July 8, 2010, at Alta Bates Summit Medical Center in Berkeley, of complications from a stroke. He was ninety-one. In 2018, UC Berkeley named a new residence hall David Blackwell Hall in his honor.
+Blocked from white institutions, Blackwell joined the Department of Mathematics at Howard University in Washington, D.C., in 1944. Within three years he was promoted to full professor and appointed department head—positions he held while carrying heavy teaching loads with minimal research infrastructure. Despite these constraints, his decade at Howard was extraordinarily productive. He published twenty papers and a monograph spanning measure theory, renewal theory, sequential analysis, game theory, and decision theory.
 
-David Blackwell was a towering figure in twentieth-century mathematics and statistics who built a historic career in the face of systemic racial exclusion. The institutions that once refused him now invoke his name to honor themselves.
+It was at Howard, in 1947, that Blackwell published "Conditional Expectation and Unbiased Sequential Estimation," which established what is now known as the **Rao-Blackwell theorem** (discovered independently by C. R. Rao). The theorem provides a systematic method for improving a crude unbiased estimator by conditioning on a sufficient statistic, yielding a new estimator with equal or lower variance. It remains a cornerstone of mathematical statistics.
 
-**Sources:**
+From 1948 to 1950, Blackwell spent summers at the RAND Corporation, working with Meyer Abraham Girshick and other mathematicians on the game theory of duels—problems concerning optimal timing of irreversible actions under uncertainty. This collaboration produced the landmark monograph *Theory of Games and Statistical Decisions* (Wiley, 1954), a graduate-level text that helped codify the intersection of game theory and statistical decision theory.
 
-- Bickel, P. J. "David Blackwell, 1919–2010: An explorer in mathematics and statistics," *Proceedings of the National Academy of Sciences* 117, no. 47 (2020): 29257–29259. https://www.pnas.org/doi/10.1073/pnas.2020164117
-- "David Blackwell," MacTutor History of Mathematics Archive, University of St Andrews. https://mathshistory.st-andrews.ac.uk/Biographies/Blackwell/
-- "Eminent statistician David Blackwell has died at 91," Berkeley News, July 15, 2010. https://news.berkeley.edu/2010/07/15/blackwell/
-- "New dorm to honor Berkeley's first tenured black professor," Berkeley News, February 8, 2018. https://news.berkeley.edu/2018/02/08/new-dorm-to-honor-berkeleys-first-tenured-black-professor/
-- "David Blackwell," National Science and Technology Medals Foundation. https://nationalmedals.org/laureate/david-blackwell/
-- "David H. Blackwell: A Profile of Inspiration and Perseverance," Department of Statistics, University of Illinois. https://stat.illinois.edu/news/2020-07-17t141901/david-h-blackwell-profile-inspiration-and-perseverance
-- UC Academic Senate, "David Harold Blackwell," In Memoriam. https://senate.universityofcalifornia.edu/_files/inmemoriam/html/davidharoldblackwell.html
-- "David Blackwell," Britannica. https://www.britannica.com/biography/David-Blackwell
-- "Blackwell, David," INFORMS. https://www.informs.org/Explore/History-of-O.R.-Excellence/Biographical-Profiles/Blackwell-David
+Blackwell was also an early and influential proponent of the Bayesian approach to statistics. His 1969 textbook *Basic Statistics* (McGraw-Hill) was among the first to teach introductory statistics from a Bayesian perspective.
+
+#### Berkeley (1954–1988)
+
+In 1954, Jerzy Neyman—who had never stopped trying—finally succeeded in bringing Blackwell to the University of California, Berkeley, initially as a visiting professor. Blackwell was appointed full professor in the newly created Department of Statistics in 1955, making him the first Black scholar to hold a tenured faculty position at UC Berkeley. He served as chair of the statistics department from 1956 to 1961, per Berkeley's own departmental records.
+
+At Berkeley, Blackwell's work broadened further. With Lester Dubins, he published "Merging of Opinions with Increasing Information" (1962), a foundational result in Bayesian epistemology demonstrating that two observers with different prior beliefs will, under certain conditions, converge to the same posterior as evidence accumulates. He made major contributions to dynamic programming, extending Richard Bellman's framework to uncountable state spaces in "Discrete Dynamic Programming" (1962). Working with Leo Breiman and Aram Thomasian, he proved the Shannon coding theorem for a class of channels that included a novel type now called the **Blackwell channel**. His **approachability theorem** for repeated games with vector payoffs (1956) became a foundational tool in the theory of online learning and calibration.
+
+The **Blackwell renewal theorem**, a basic result in applied probability widely used in engineering and operations research, also bears his name. Additional named contributions include Blackwell determinacy, Blackwell games, Blackwell optimal policies, and Blackwell spaces (Lusin spaces characterized by Blackwell's topological criteria).
+
+By retirement in 1988, Blackwell had published more than ninety papers and books.
+
+#### Honors and Recognition
+
+- **National Academy of Sciences** (1965): First Black scholar elected to the NAS.
+- **American Academy of Arts and Sciences** (1968).
+- **Honorary Fellow, Royal Statistical Society** (1976).
+- **John von Neumann Theory Prize**, Operations Research Society of America and the Institute of Management Sciences (1979).
+- **R. A. Fisher Lectureship**, Committee of Presidents of Statistical Societies (1986).
+- **National Medal of Science** (awarded 2012, presented posthumously by President Barack Obama to Blackwell's children at the White House on November 20, 2014).
+- **Thirteen honorary doctorates**, including from Harvard University (1988), Yale University, the University of Illinois (1966), Carnegie Mellon University (1980), Howard University, the University of Warwick (1990), and the University of Southern California (1992).
+- The **Blackwell-Tapia Prize**, established in his honor and that of Richard Tapia, recognizes mathematical scientists who have contributed to the research community and served as role models for underrepresented groups.
+- UC Berkeley named **Blackwell Hall** (formerly Evans Hall, named for the very department chair whose household had refused Blackwell in 1942) in his honor in 2020.
+
+#### Death
+
+David Blackwell died on July 8, 2010, at Alta Bates Summit Medical Center in Berkeley, California, from complications of a stroke. He was ninety-one years old.
+
+---
+
+#### Sources
+
+- [David Blackwell — Wikipedia](https://en.wikipedia.org/wiki/David_Blackwell)
+- [David Blackwell, 1919–2010: An Explorer in Mathematics and Statistics — *PNAS*](https://pmc.ncbi.nlm.nih.gov/articles/PMC7703635/)
+- [David Harold Blackwell (1919–2010) — Howard University Department of Mathematics](https://mathematics.howard.edu/articles/david-harold-blackwell-1919-2010)
+- [David Blackwell — Encyclopaedia Britannica](https://www.britannica.com/biography/David-Blackwell)
+- [David Blackwell (1919–2010) — MacTutor History of Mathematics](https://mathshistory.st-andrews.ac.uk/Biographies/Blackwell/)
+- [David H. Blackwell: A Profile of Inspiration and Perseverance — University of Illinois Department of Statistics](https://stat.illinois.edu/news/2020-07-17t141901/david-h-blackwell-profile-inspiration-and-perseverance)
+- [David Blackwell — INFORMS Biographical Profiles](https://www.informs.org/Explore/History-of-O.R.-Excellence/Biographical-Profiles/Blackwell-David)
+- [Eminent Statistician David Blackwell Has Died at 91 — Berkeley News](https://news.berkeley.edu/2010/07/15/blackwell/)
+- [David Harold Blackwell — UC Senate In Memoriam](https://senate.universityofcalifornia.edu/_files/inmemoriam/html/davidharoldblackwell.html)
+- [David Blackwell — National Science and Technology Medals Foundation](https://nationalmedals.org/laureate/david-blackwell/)
+- [David Blackwell Stories — Statistical Modeling, Causal Inference, and Social Science (Andrew Gelman)](https://statmodeling.stat.columbia.edu/2022/10/18/david-blackwell-stories/)
+- [Past Department Chairs — UC Berkeley Department of Statistics](https://statistics.berkeley.edu/node/8312)
+- [David H. Blackwell (1919–2010) — *Amstat News*](https://magazine.amstat.org/blog/2025/02/03/david-h-blackwell-sih/)
+- [David H. Blackwell (1919–2010) — Game Theory Society](https://gametheorysociety.org/david-h-blackwell-1919-2010/)
+- [Black History Month Highlight: Dr. David Blackwell — Duke Biostatistics](https://biostat.duke.edu/news/black-history-month-highlight-dr-david-blackwell)
+- Constance Reid, *Neyman—from Life* (Springer, 1982).
+- David Blackwell and M. A. Girshick, *Theory of Games and Statistical Decisions* (Wiley, 1954).
+- David Blackwell, *Basic Statistics* (McGraw-Hill, 1969).
