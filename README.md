@@ -71,6 +71,7 @@ The agent will ask you two questions — what to scan and what your field is —
 | [`debastardize-command.md`](debastardize-command.md) | Same prompt, stripped for use as a Claude Code slash command. |
 | [`histories/`](histories/) | Biographical entries for known figures — problematic and otherwise. One file per person. The agent consults these as needed, avoiding API refusal to discuss difficult historical topics. |
 | [`histories/values.txt`](histories/values.txt) | Tone and style guide for biographical entries. Used by subagents when researching new figures. |
+| `alternatives.md` | A resource containing alternatives to eponymous methods by awful people, including information about their assumptions, limitations, and best use cases, with links to external resources. This table is not used by the prompt unless you request it to - it is provided for your reference and meant to cover the most common cases, should you not want an AI agent modifying your analysis code. |
 | `README.md` | You're reading it. |
 | `LICENSE` | CC BY-SA 4.0. |
 
