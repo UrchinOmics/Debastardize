@@ -111,12 +111,11 @@ This is a living document. If you know of a figure who should be added to `histo
 
 ## Agentic AI use in Writing
 
-Claude Opus 4.6 was used to build initial histories, and to format and edit the prompt. Claude Opus 4.6 and OpenAI GPT5.2 codex were used to evlauate performance by evaluating some existing codebases and manuscripts. 
+Claude Opus 4.6 was used to build initial histories, to format markdown and edit the prompt. Claude Opus 4.6 and OpenAI GPT5.2 codex were used to evaluate performance by using the prompt with existing codebases and manuscripts. That taught me more than I anticipated. 
 
-##
+## Acknowledgement
 
 The IDEA course in Duke's Biology department, its instructor (Danae Diaz) and co-instructor (Nina Sherwood) and some IDEA committee members (Aeran Coughlin) played a large part in opening my eyes to the history behind these methods, and for that, have my sincere gratitude. :)
 
 ## License
-
 [CC BY-SA 4.0](LICENSE) — Use it, fork it, adapt it, but please credit me and keep derivative work accessible to all. 
