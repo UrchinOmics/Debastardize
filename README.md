@@ -6,9 +6,11 @@
 
 ## The problem
 
-Every time a researcher writes fisher.test(), they invoke — whether they know it or not — the name of a man who campaigned to sterilize 17% of the British population. When they compute a Pearson correlation, they honor a man who wrote that nations advance "by way of war with inferior races." The foundations of modern statistics were laid by Francis Galton, Karl Pearson, and R.A. Fisher — men whose names are everywhere in scientific code and manuscripts, in correlation coefficients, chi-squared tests, ANOVA, the F-distribution, p-values — and whose legacies the scientific community has largely chosen not to confront. The math works regardless of who developed it. Nobody argues otherwise. But when an equally valid or better alternative exists, researchers deserve to know they have a choice. And when no alternative exists — the entire frequentist paradigm was built by these men, and there is no escaping that — researchers deserve to know whose names they carry forward and what those names represent. We can't always avoid the methods. But we can always be informed, and we can ensure that truth prevails and that these names stay linked to the full record of what person's actions.
+Every time a researcher writes fisher.test(), they invoke — whether they know it or not — the name of a man who campaigned to sterilize 17% of the British population. When they compute a Pearson correlation, they honor a man who wrote that nations advance "by way of war with inferior races." The foundations of modern statistics were laid by Francis Galton, Karl Pearson, and R.A. Fisher — men whose names are everywhere in scientific code and manuscripts, in correlation coefficients, chi-squared tests, ANOVA, the F-distribution, p-values — and whose legacies the scientific community has largely chosen not to confront. The math works regardless of who developed it. Nobody argues otherwise. But when an equally valid or better alternative exists, researchers deserve to know they have a choice. And when no alternative exists — the entire frequentist paradigm was built by these men, and there is no escaping that — researchers deserve to know whose names they carry forward and what those names represent. We can't always avoid the methods. But we can always be informed, and we can ensure that truth prevails and that these names stay linked to the full record of the person's actions.
 
-Not everyone in this history is a villain, and knowing the stories behind those people is important too. For example, David Blackwell was denied a faculty position at Berkeley in the early 1940s because the department chair's wife refused to have a Black person in her home. A little over a decade later, he was hired as a full professor in that same department — the first Black scholar tenured at UC Berkeley. The year after that, he was appointed its chair. He became the first Black member of the National Academy of Sciences, the namesake of the Rao-Blackwell theorem, and made foundational contributions to game theory, Bayesian statistics, and information theory. He was elected to the American Academy of Arts and Sciences, received the von Neumann Prize and the National Medal of Science, and published across more fields than most statisticians touch in a lifetime. The institutions that once turned him away for the color of his skin now name buildings after him. He became one of the greatest statisticians of the twentieth century, and his story deserves to be told too. 
+Not everyone in this history is a villain, and knowing the stories behind those people is important too. For example, David Blackwell was denied a faculty position at Berkeley in the early 1940s because the department chair's wife refused to have a Black person in her home. A little over a decade later, he was hired as a full professor in that same department — the first Black scholar tenured at UC Berkeley. The year after that, he was appointed its chair. He became the first Black member of the National Academy of Sciences, the namesake of the Rao-Blackwell theorem, and made foundational contributions to game theory, Bayesian statistics, and information theory. He was elected to the American Academy of Arts and Sciences, received the von Neumann Prize and the National Medal of Science, and published across more fields than most statisticians touch in a lifetime. The institutions that once turned him away for the color of his skin now name buildings after him. He became one of the greatest statisticians of the twentieth century.
+
+His story deserves to be told too. 
 
 ## What this does
 
@@ -105,6 +107,14 @@ The agent's most important job is education. If you review the history and decid
 ## Contributing
 
 This is a living document. If you know of a figure who should be added to `histories/` — problematic or otherwise — open a PR with sources. If you find a better statistical alternative for a flagged method, suggest it. If you've used this on your own codebase and have feedback on the prompt, open an issue.
+
+## Agentic AI use in Writing
+
+Claude Opus 4.6 was used to build initial histories, and to format and edit the prompt. Claude Opus 4.6 and OpenAI GPT5.2 codex were used to evlauate performance by evaluating some existing codebases and manuscripts. 
+
+##
+
+The IDEA course in Duke's Biology department, its instructor (Danae Diaz) and co-instructor (Nina Sherwood) and some IDEA committee members (Aeran Coughlin) played a large part in opening my eyes to the history behind these methods, and for that, have my sincere gratitude. :)
 
 ## License
 
